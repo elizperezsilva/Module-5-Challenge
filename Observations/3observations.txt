@@ -1,0 +1,4 @@
+1. The drug Ketapril had the highest mean tumor volume at 55.235638 and median tumor volume at 53.
+698743 out of all the drugs tested.
+2. The drugs Capomulin and Ramicane had the most amount of observed mice for their drug.
+3. All the duplicate mouse ID's were of female mice for the Propriva drug. 
