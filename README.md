@@ -62,3 +62,4 @@ Plot the linear regression model on top of the previous scatter plot.
 - Canvas modules provided
 - Starter source code provided in resources
 - Class solution files
+- Received errors when trying to make scatterplots and calculating correlation and regression because of the mean() function not tracking numeric variables, used chatgpt to potentially fix but could not pinpoint, will continue to work on this but turning in as is due to time.  
